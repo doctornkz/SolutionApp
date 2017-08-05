@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: /home/doctor/Work/Demo/SolutionApp/src/main/java/Solution
+Main-Class: Solution.Solution
+
